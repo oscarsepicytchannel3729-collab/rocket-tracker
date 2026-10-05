@@ -79,3 +79,5 @@ plt.ylabel('Velocity ms-1')
 
 plt.tight_layout()
 plt.show()
+
+print("All done here!")
