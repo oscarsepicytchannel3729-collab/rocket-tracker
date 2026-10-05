@@ -1,0 +1,5 @@
+spec,unit,value
+dryMass,kg,20000
+fuel_mass,kg,30000
+thrust,n,800000
+fuelBurn,kgs-1,200
